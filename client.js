@@ -164,6 +164,4 @@ function announceGameOver() {
     }
     console.log(`Total moves played: ${chess.history().length}`);
     console.log('===============================');
-    rl.close();
-    process.exit();
 }
