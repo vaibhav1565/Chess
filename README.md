@@ -11,4 +11,4 @@ Run `npm i`
   1. Start server: `node server.js`  
   2. Connect clients: `node client.js`  
 
-Powered by `chess.js` for game logic.
+Powered by `chess.js` for game logic and `ws` for WebSocket.
