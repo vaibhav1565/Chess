@@ -5,6 +5,7 @@ A command-line chess game featuring:
 - **Multiplayer Mode**: Play online with `server.js` and `client.js` using WebSocket.  
 
 ### Run:
+Run `npm i`
 - Single-player: `node cli_chess.js`  
 - Multiplayer:  
   1. Start server: `node server.js`  
