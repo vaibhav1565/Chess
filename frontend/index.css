@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {
+    display: flex;
+}
+
+ul {
+    overflow-y: auto;
+    border: solid 1px;
+
+    width: 20vw;
+}
